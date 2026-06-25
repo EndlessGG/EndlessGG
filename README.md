@@ -1,32 +1,32 @@
-### Hey, how are you? 👋
+### ¡Hola, qué tal! 👋
 
 ---
 
 <p align="center">
-  <img src="Portfolio Presentation.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="Portfolio Presentation.png" width="100%" title="Tarjeta de Presentación" alt="Tarjeta de Presentación">
 </p>
 
 --- 
 
-## About Me
+## Sobre Mí
 
 <p align="justify">
-I am a Software Development and Management Engineer passionate about programming and developing innovative technological solutions. I enjoy exploring and applying the latest trends in the programming world and staying updated with the development community. With experience in backend and knowledge of frontend, I focus on creating efficient and scalable applications. I am self-taught and enjoy continuous learning, which allows me to quickly adapt to new technologies and improve my technical skills to provide effective and quality solutions.
+Soy Ingeniero en Desarrollo y Gestión de Software, apasionado por la programación y por crear soluciones tecnológicas innovadoras. Disfruto explorar y aplicar las últimas tendencias en el mundo de la programación y mantenerme actualizado con la comunidad de desarrollo. Con experiencia en backend y conocimientos en frontend, me enfoco en crear aplicaciones eficientes y escalables. Soy autodidacta y disfruto del aprendizaje continuo, lo que me permite adaptarme rápidamente a nuevas tecnologías y mejorar mis habilidades técnicas para ofrecer soluciones efectivas y de alta calidad.
 </p>
 
-## Technical Skills
+## Habilidades Técnicas
 
 ```javascript
-const technicalSkills = {
-    programmingLanguages: ['JavaScript', 'Dart', 'C#'],
+const habilidadesTecnicas = {
+    lenguajesDeProgramacion: ['JavaScript', 'Dart', 'C#'],
     frameworks: ['Node.js', 'Express', 'Flutter', 'React'],
-    databases: ['MongoDB', 'MySQL'],
-    tools: ['Git', 'Docker', 'Visual Studio Code'],
-    others: ['Agile Development', 'Scrum Methodologies']
+    basesDeDatos: ['MongoDB', 'MySQL'],
+    herramientas: ['Git', 'Docker', 'Visual Studio Code'],
+    otros: ['Desarrollo Ágil', 'Metodologías Scrum']
 };
 ```
 
-## Education
+## Educación
 
-- **Higher University Technician in Information Technologies**, Multiplatform Software Development area, Technological University of Puebla UTP (2021 - 2023)
-- **Bachelor's Degree in Information Technologies**, Software Development and Management area, Technological University of Puebla UTP (2023 - 2025)
+- **Técnico Superior Universitario en Tecnologías de la Información**, área Desarrollo de Software Multiplataforma, Universidad Tecnológica de Puebla UTP (2021 - 2023)
+- **Ingeniería en Tecnologías de la Información**, área Desarrollo y Gestión de Software, Universidad Tecnológica de Puebla UTP (2023 - 2025)
