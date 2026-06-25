@@ -11,18 +11,17 @@
 ## Sobre Mí
 
 <p align="justify">
-Soy Ingeniero en Desarrollo y Gestión de Software, apasionado por la programación y por crear soluciones tecnológicas innovadoras. Disfruto explorar y aplicar las últimas tendencias en el mundo de la programación y mantenerme actualizado con la comunidad de desarrollo. Con experiencia en backend y conocimientos en frontend, me enfoco en crear aplicaciones eficientes y escalables. Soy autodidacta y disfruto del aprendizaje continuo, lo que me permite adaptarme rápidamente a nuevas tecnologías y mejorar mis habilidades técnicas para ofrecer soluciones efectivas y de alta calidad.
+Soy Ingeniero en Desarrollo y Gestión de Software enfocado en la creación de aplicaciones eficientes y escalables. Tengo experiencia principal en backend y sólidos conocimientos en frontend. Me adapto rápidamente a nuevas tecnologías mediante el aprendizaje autodidacta, priorizando siempre la entrega de soluciones técnicas funcionales y de calidad.
 </p>
 
 ## Habilidades Técnicas
 
 ```javascript
 const habilidadesTecnicas = {
-    lenguajesDeProgramacion: ['JavaScript', 'Dart', 'C#'],
-    frameworks: ['Node.js', 'Express', 'Flutter', 'React'],
-    basesDeDatos: ['MongoDB', 'MySQL'],
-    herramientas: ['Git', 'Docker', 'Visual Studio Code'],
-    otros: ['Desarrollo Ágil', 'Metodologías Scrum']
+    lenguajesDeProgramacion: ['JavaScript', 'Dart', 'C#', 'PHP'],
+    frameworks: ['Node.js', 'Express', 'Flutter', 'React', '.NET'],
+    basesDeDatos: ['SQLserver', 'MySQL'],
+    herramientas: ['Git', 'Docker']
 };
 ```
 
